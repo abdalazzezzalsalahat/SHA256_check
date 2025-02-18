@@ -21,6 +21,7 @@ This project demonstrates microservices observability in a Kubernetes environmen
     git remote add origin git@github.com:$USERNAME/$REPO_NAME.git
     git push origin main
     ```
+---
 
 ### Hashing_service
 
@@ -88,6 +89,7 @@ This project demonstrates microservices observability in a Kubernetes environmen
     git push origin length_infra
     ```
 
+---
 
 ### Main Branch Protection
 
